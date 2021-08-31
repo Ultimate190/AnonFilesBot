@@ -44,7 +44,7 @@ HELP_TEXT = """
 """
 ABOUT_TEXT = """
 - **Bot :** `AnonFilesBot`
-- **Creator :** [Shivansh](https://telegarm.me/Shivansh_776)
+- **Creator :** [Shivansh](t.me/@Shivansh_776)
 - **Source :** [Click here](https://github.com/avipatilpro/AnonFilesBot)
 - **Language :** [Python3](https://python.org)
 - **Server :** [Heroku](https://heroku.com)
